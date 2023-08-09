@@ -1,0 +1,278 @@
+
+.button-box {
+    width: 100px;
+    height: 50px;
+    border: solid 1px #ccc;
+    /* font-size: 16px; */
+    cursor: move;
+    /* background-color: burlywood; */
+    /* font-family: 'Courier New', Courier, monospace; */
+  }
+
+  [nz-menu] {
+    width: 1740px;
+    padding-top:200px;
+    padding-left: 1500px;
+  }
+
+  .noidung{
+    height: 120px;
+    color: black;
+  }
+
+  .font{
+    height: 100px;
+  }
+
+  .left-font{
+    float: left;
+    color:black;
+  }
+
+  .right-font{
+    padding-left:60px;
+    margin-top:-3px;
+    float:right;
+    color:black;
+  }
+
+  .input-kichthuoc{
+    width: 80px;
+    height: 25px;
+  }
+
+  .categories{
+    height: 100px;
+  }
+
+  .left-cate{
+    float:left;
+    width: 20%;
+    height: 30px;
+    color: black;
+    font-weight: bold;
+    cursor:pointer;
+    text-align:center;
+  }
+
+  .mid-cate{
+    float:left;
+    width: 20%;
+    height: 30px;
+    color: black;
+    font-style: italic;
+    margin-left:3px;
+    cursor:pointer;
+    text-align:center;
+  }
+
+  .rightU-cate{
+    float:left;
+    width: 20%;
+    height: 30px;
+    color: black;
+    text-decoration: underline;
+    margin-left: 0px;
+    cursor:pointer;
+    text-align:center;
+  }
+
+  .rightAB-cate{
+    float:right;
+    width: 25%;
+    height: 30px;
+    color:black;
+    margin-left: 0px;
+    cursor:pointer;
+    text-align:center;
+  }
+
+  span:hover{
+    color:#1571d4;
+  }
+
+  svg:hover{
+    color:#1571d4;
+  }
+
+  .positions{
+    height: 100px;
+  }
+
+  .left-po{
+    float:left;
+    width: 30%;
+    color: black;
+    text-align:center;
+  }
+
+  .mid-po{
+    float:left;
+    width: 30%;
+    color: black;
+    /* padding-left:5px; */
+    margin-left:2px;
+    text-align:center;
+  }
+
+  .right-po{
+    float:right;
+    width: 30%;
+    color: black;
+    /* padding-left:5px; */
+    margin-left:2px;
+    text-align:center;
+  }
+
+  .wordPositions{
+    height: 200px;
+    /* width: 500px; */
+  }
+
+  .bot-word{
+    float:left;
+    width: 30%;
+    height: 30px;
+    cursor:pointer;
+  }
+
+  .mid-word{
+    float:left;
+    width: 30%;
+    height: 30px;
+    /* padding-left:5px; */
+    margin-left:2px;
+    cursor:pointer;
+  }
+
+  .top-word{
+    float:right;
+    width: 30%;
+    height: 30px;
+    /* padding-left:5px; */
+    margin-left:2px;
+    cursor:pointer;
+  }
+
+  .ant-menu-sub.ant-menu-inline {
+    padding: 0;
+    background: #fafafa;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  #btn-color{
+    border: 0.1875em solid #0F1C3F;
+    border-radius: 50%;
+    height: 2.5em;
+    width: 2.5em;
+  }
+
+  .burlywood{
+    background-color: burlywood;
+  }
+
+  .black{
+    background-color: rgb(57, 54, 70);
+  }
+
+  .color2{
+    background-color: rgb(79, 69, 87);
+  }
+
+  .color3{
+    background-color: rgb(109, 93, 110);
+  }
+
+  .color4{
+    background-color: rgb(244, 238, 224);
+  }
+
+  .color5{
+    background-color: rgb(176, 164, 164);
+  }
+
+  .color6{
+    background-color: rgb(255, 251, 235);
+  }
+
+
+  .times{
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .roboto{
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .arial{
+    font-family:'Courier New', Courier, monospace;
+  }
+
+  .comic{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .font14{
+    font-size: 10px;
+  }
+
+  .font15{
+    font-size: 15px;
+  }
+
+  .font16{
+    font-size: 20px;
+  }
+
+  .font17{
+    font-size: 25px;
+  }
+
+  .font18{
+    font-size: 30px;
+  }
+
+  .normal{
+    font-weight: normal;
+  }
+
+  .bold{
+    font-weight: bold;
+  }
+
+  .italic{
+    font-style: italic;
+  }
+
+  .underline{
+    text-decoration: underline;
+  }
+
+  .uppercase{
+    text-transform: uppercase;
+  }
+
+  .left{
+    text-align:left;
+  }
+
+  .center{
+    text-align:center;
+  }
+
+  .right{
+    text-align: right;
+  }
+
+  .bot{
+    padding-top:20px;
+  }
+
+  .mid{
+    padding-top: 0px;
+  }
+
+  .top{
+    padding-bottom: 23px;
+  }
